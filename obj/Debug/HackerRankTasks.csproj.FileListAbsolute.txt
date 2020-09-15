@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\HackerRankTasks\bin\Debug\HackerRankTasks.exe.config
+C:\Users\Administrator\source\repos\HackerRankTasks\bin\Debug\HackerRankTasks.exe
+C:\Users\Administrator\source\repos\HackerRankTasks\bin\Debug\HackerRankTasks.pdb
+C:\Users\Administrator\source\repos\HackerRankTasks\obj\Debug\HackerRankTasks.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HackerRankTasks\obj\Debug\HackerRankTasks.exe
+C:\Users\Administrator\source\repos\HackerRankTasks\obj\Debug\HackerRankTasks.pdb
+C:\Users\Administrator\source\repos\HackerRankTasks\obj\Debug\HackerRankTasks.csprojAssemblyReference.cache
